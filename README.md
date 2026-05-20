@@ -1,6 +1,17 @@
 # 🎬 Netflix Clone - Responsive Landing Page
 
+<div align="center">
+  <img src="./assets/images/demo.png" >
+</div>
 
+
+
+---
+
+## 🔥 Live Preview
+👉 
+
+---
 
 ---
 
