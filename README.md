@@ -1,4 +1,3 @@
-````markdown id="pm2k8a"
 # 🎬 Netflix Clone - Responsive Landing Page
 
 <div align="center">
@@ -48,6 +47,26 @@ The UI closely resembles the official Netflix India landing page.
 
 ---
 
+# 📂 Project Structure
+
+```bash
+Netflix-Clone/
+│
+├── index.html
+├── style.css
+│
+├── assets/
+│   ├── images/
+│   │   ├── bg.jpg
+│   │   ├── logo.svg
+│   │   └── netflix-clone.png
+│   │
+│   └── videos/
+│
+└── README.md
+```
+
+---
 
 # 🎨 Sections Included
 
@@ -173,7 +192,7 @@ This project helps in understanding:
 
 # 👩‍💻 Author
 
-Made with ❤️ by **Amisha**
+Made with ❤️ by **Amisha Patel**
 
 ---
 
@@ -188,4 +207,3 @@ If you liked this project:
 ---
 
 
-````
