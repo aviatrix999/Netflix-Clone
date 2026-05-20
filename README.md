@@ -9,7 +9,7 @@
 ---
 
 ## 🔥 Live Preview
-👉 
+👉 https://netclonix.netlify.app/
 
 ---
 
