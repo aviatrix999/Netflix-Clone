@@ -1,8 +1,6 @@
 # 🎬 Netflix Clone - Responsive Landing Page
 
-<div align="center">
-  <img src="./assets/videos/demo.webm" width="900px">
-</div>
+
 
 ---
 
